@@ -16,11 +16,11 @@ I implemented using the latest flutter version null safety support it fetches po
 
 it also has an intuitive UI that is designed to fit different screen sizes
 
-#Libraries Used
+# Libraries Used
 
-Cached Network Image : This package helps with caching images on the devices of the Usr and saves them memory as they do not need to fetch if it has already been cached
+**Cached Network Image[https://pub.dev/packages/cached_network_image]** : This package helps with caching images on the devices of the Usr and saves them memory as they do not need to fetch if it has already been cached
 
-Dio : This package helps with making http requests and makes error handling for requests a breeze
+**Dio[https://pub.dev/packages/dio]** : This package helps with making http requests and makes error handling for requests a breeze
 
 Equatable : Equatable overrides == and hashCode for you so you don't have to waste your time writing lots of boilerplate code.
 
@@ -36,7 +36,7 @@ carousel_slider : A flutter carousel widget, support infinite scroll, and custom
 
 Palette Generator : These package helps with extracting colours from images this package helped with determining the background color for pokemons
 
-#Do a critique:
+# Do a critique:
 The current implementation isn't perfect he current implementation isn't perfect. How could it be improved?
 
 Currently getting the pokemons isn't quite efficient as the performing heavy operations(like getting the images dominant colors) , loops and getting the individual pokemons details.
