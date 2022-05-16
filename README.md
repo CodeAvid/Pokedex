@@ -8,12 +8,12 @@ Getting Started
 pub get
 flutter run
 ```
+# Interface
 
-Screen Recording 
+![gif-pokedex](https://user-images.githubusercontent.com/51957344/168691252-9d296e89-7028-4741-82dd-8e2ab9c0446e.gif)
 
-https://user-images.githubusercontent.com/51957344/168674885-32f812bd-776e-4e6c-b3fe-583e293747b7.mp4
 
-Implementation
+# Implementation
 I implemented using the latest flutter version null safety support it fetches pokemons from https://pokeapi.co/docs/v2 and allows users save their favourites ones on their device in an efficient manner such that reading and writing isn't an hassle and it is readily available
 
 it also has an intuitive UI that is designed to fit different screen sizes
