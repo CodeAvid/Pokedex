@@ -4,8 +4,10 @@ A Pokemon Flutter app
 
 Getting Started
 
+```dart
 pub get
 flutter run
+```
 
 Screen Recording 
 
@@ -18,23 +20,23 @@ it also has an intuitive UI that is designed to fit different screen sizes
 
 # Libraries Used
 
-**Cached Network Image[https://pub.dev/packages/cached_network_image]** : This package helps with caching images on the devices of the Usr and saves them memory as they do not need to fetch if it has already been cached
+**[Cached Network Image](https://pub.dev/packages/cached_network_image)** : This package helps with caching images on the devices of the Usr and saves them memory as they do not need to fetch if it has already been cached
 
-**Dio[https://pub.dev/packages/dio]** : This package helps with making http requests and makes error handling for requests a breeze
+**[Dio](https://pub.dev/packages/dio)** : This package helps with making http requests and makes error handling for requests a breeze
 
-Equatable : Equatable overrides == and hashCode for you so you don't have to waste your time writing lots of boilerplate code.
+**[Equatable](https://pub.dev/packages/equatable)** : Equatable overrides == and hashCode for you so you don't have to waste your time writing lots of boilerplate code.
 
-get_it : Get_it is a simple Service Locator for Dart and Flutter projects with some additional goodies highly inspired by Splat. It can be used instead of InheritedWidget or Provider to access objects e.g. from your UI.
+**[get_it](https://pub.dev/packages/get_it)** : Get_it is a simple Service Locator for Dart and Flutter projects with some additional goodies highly inspired by Splat. It can be used instead of InheritedWidget or Provider to access objects e.g. from your UI.
 
-Flutter Bloc : Flutter Bloc is a State management package that helps build fast and reactive applications
+**[Flutter Bloc](https://pub.dev/packages/flutter_bloc)** : Flutter Bloc is a State management package that helps build fast and reactive applications
 
-Flutter Lint : Flutter Lints is a linting package that contains all the flutter recommended best practices to ensure quality coding practices
+**[Flutter Lints](https://pub.dev/packages/flutter_lints)** : Flutter Lints is a linting package that contains all the flutter recommended best practices to ensure quality coding practices
 
-Shimmer : Shimmer is a skeleton loader package that helps make Intuitive loaders
+**[Shimmer](https://pub.dev/packages/shimmer)** : Shimmer is a skeleton loader package that helps make Intuitive loaders
 
-carousel_slider : A flutter carousel widget, support infinite scroll, and custom child widget.
+**[carousel_slider](https://pub.dev/packages/carousel_slider)** : A flutter carousel widget, support infinite scroll, and custom child widget.
 
-Palette Generator : These package helps with extracting colours from images this package helped with determining the background color for pokemons
+**[Palette Generator](https://pub.dev/packages/palette_generator)** : These package helps with extracting colours from images this package helped with determining the background color for pokemons
 
 # Do a critique:
 The current implementation isn't perfect he current implementation isn't perfect. How could it be improved?
